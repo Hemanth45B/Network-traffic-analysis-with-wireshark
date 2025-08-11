@@ -1,4 +1,4 @@
-Cyber Security Task 5: Network Traffic Analysis with Wireshark
+ Network Traffic Analysis with Wireshark
 The objective of this task was to perform a live network capture using Wireshark, analyze the resulting data, and identify key communication protocols. This project demonstrates a practical understanding of network packet analysis, protocol behavior, and the use of professional network monitoring tool
 
 
